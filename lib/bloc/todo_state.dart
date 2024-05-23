@@ -10,5 +10,3 @@ class TodoState {
 
   TodoState({required this.items});
 }
-
-class Todotate {}
