@@ -12,7 +12,5 @@ class TodoState {
 }
 
 class Todotate {
-  final List<ToDo> items;
-
-  Todotate({required this.items});
+  Todotate();
 }
