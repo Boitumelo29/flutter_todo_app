@@ -10,3 +10,9 @@ class TodoState {
 
   TodoState({required this.items});
 }
+
+class Todotate {
+  final List<ToDo> items;
+
+  Todotate({required this.items});
+}
